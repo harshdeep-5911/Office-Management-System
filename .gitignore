@@ -1,7 +1,6 @@
-# .gitignore (basic for Node.js + React)
 node_modules/
+*.log
 .env
-.DS_Store
+.cache/
 dist/
 build/
-.vscode/
